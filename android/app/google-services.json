@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178233889699",
+    "firebase_url": "https://chatadda-37684.firebaseio.com",
+    "project_id": "chatadda-37684",
+    "storage_bucket": "chatadda-37684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178233889699:android:3ad11627b0f692649a8016",
+        "android_client_info": {
+          "package_name": "com.example.chat_adda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178233889699-33fmqgcc4ukqlp877s39m4mbs0a3c5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtvLEFEZYH04eH3oSFKvQYKhTGWH9_Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178233889699-33fmqgcc4ukqlp877s39m4mbs0a3c5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
